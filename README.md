@@ -29,7 +29,6 @@ O projeto foi desenvolvido como parte de uma avaliação acadêmica, com foco em
 ## ▶️ Como executar
 
 1️⃣ Clone o repositório
-```bash
 git clone https://github.com/Samuel-Villela/the-dreamer-game-c.git
 
 2️⃣ Acesse a pasta do projeto
@@ -40,6 +39,8 @@ gcc main.c -o the_dreamer
 
 4️⃣ Execute o jogo
 ./the_dreamer
+
+---
 
 ## 👥 Autores
 
